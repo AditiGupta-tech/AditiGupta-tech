@@ -66,86 +66,72 @@
 
 <p align="left">
   <a href="#">
-    <img src="[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)" height="25"/>
+    <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" height="25"/>
   </a>
   <a href="#">
-    <img src="[![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=fff)](#)" height="25"/>
-  </a>
-<a href="#">
-    <img src="[![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)](#)" height="25"/>
+    <img src="https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=fff" height="25"/>
   </a>
   <a href="#">
-    <img src="[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)" height="25"/>
+    <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white" height="25"/>
   </a>
   <a href="#">
-    <img src="[![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)](#)" height="25"/>
-  </a>
-<a href="#">
-    <img src="[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)" height="25"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white" height="25"/>
   </a>
   <a href="#">
-    <img src="[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)" height="25"/>
+    <img src="https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white" height="25"/>
   </a>
   <a href="#">
-    <img src="[![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)" height="25"/>
-  </a>
-<a href="#">
-    <img src="[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)" height="25"/>
-  </a>
-   <a href="#">
-    <img src="[![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)](#)" height="25"/>
+    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white" height="25"/>
   </a>
   <a href="#">
-    <img src="[![Tableau](https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff)](#)" height="25"/>
-  </a>
-<a href="#">
-    <img src="[![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)" height="25"/>
+    <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" height="25"/>
   </a>
   <a href="#">
-    <img src="[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)" height="25"/>
-  </a>
-<a href="#">
-    <img src="[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](#)" height="25"/>
-  </a>
-<a href="#">
-    <img src="[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)" height="25"/>
-  </a>
-   <a href="#">
-    <img src="[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#)" height="25"/>
+    <img src="https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff" height="25"/>
   </a>
   <a href="#">
-    <img src="[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](#)" height="25"/>
-  </a>
-<a href="#">
-    <img src="[![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](#)" height="25"/>
+    <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff" height="25"/>
   </a>
   <a href="#">
-    <img src="[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)" height="25"/>
-  </a>  
-    <a href="#">
-    <img src="[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](#)" height="25"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff" height="25"/>
   </a>
   <a href="#">
-    <img src="[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](#)" height="25"/>
-  </a>
-<a href="#">
-    <img src="[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](#)" height="25"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff" height="25"/>
   </a>
   <a href="#">
-    <img src="[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](#)" height="25"/>
-  </a> 
+    <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" height="25"/>
+  </a>
+  <a href="#">
+    <img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white" height="25"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white" height="25"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" height="25"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" height="25"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" height="25"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06" height="25"/>
+  </a>
+  <a href="#">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" height="25"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white" height="25"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white" height="25"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white" height="25"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" height="25"/>
+  </a>
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
