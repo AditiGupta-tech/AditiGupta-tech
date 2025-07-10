@@ -4,9 +4,10 @@
 - 👩‍💻 **First-Year CSE Student** at IGDTUW.
 - 🌱 Currently improving **DSA** and working on **FullStack Development**.
 - 🏆 Recent Achievements:
-  - 🎖️ **SSOC'25 Contributor.**  
-  - 🎖️ **Top 150 in SDI'25 out of 1000+ teams.**
+  - 🎖️ **SSOC'25 Contributor.**
+  - 🥈 **Innovate4Humanity'25 Finalist.**
   - 🥈 **Semi-finalist, BWI'25. Amongst top 500 teams out of 25,128 teams.**
+  - 🎖️ **Top 150 in SDI'25 out of 1000+ teams.**
   - 🌟 **Head Coordinator, PR team for Aarohan'25.**
   - 💥 **Coordinator, EM team for Taarangana'25.**
 - 💬 Ask me about: **HTML, CSS, JavaScript, C, C++ and Canva designs.**
