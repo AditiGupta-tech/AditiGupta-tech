@@ -85,8 +85,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AditiGupta-tech&show_icons=true&theme=radical" width="49%" style="margin-right: 3%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AditiGupta-tech&theme=radical" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AditiGupta-tech&show_icons=true&theme=radical" />
 </p>
 
 ---
