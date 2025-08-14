@@ -133,5 +133,5 @@
   
 ---
 
-> ⚡ *Always building. Always learning. Always shipping.*
+> ⚡ *Always building. Always learning.*
 
