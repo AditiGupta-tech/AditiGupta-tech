@@ -5,7 +5,9 @@
 <p align="center">🚀 Solving real world problems that make an imapct!</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GSSoC'25-Project Admin-ff69b4?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GSSoC'25-Project%20Admin-ff69b4?style=for-the-badge&logo=github&logoColor=white"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Commit%20and%20Conquer-Project%20Admin-ff7b00?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
@@ -13,13 +15,15 @@
 ## 🚀 About Me
 - 👩‍💻 CSE undergrad at IGDTUW.
 - 🌱 Working on DSA and Full Stack Development.
+- 🌐 Portfolio: https://aditi-gupta-portfolio.vercel.app/
 - 🏆 Achievements:
+  - 🏆 **Commit & Conquer Project Admin, NeoNest.**  
   - 🏆 **GSSoC'25 Project Admin, NeoNest.**
   - 🎗️ **SSOC'25 Contributor.**
+  - 🎖️ **Top 10, UX Voyage.**
   - 🎖️ **Innovate4Humanity'25 Finalist.**
   - 🥈 **Semi-finalist, BWI'25. Amongst top 500 teams out of 25,128 teams.**
-  - 🥈**Top 150 in SDI'25 out of 1000+ teams.**
-  - 🌐 Portfolio: https://aditi-gupta-portfolio.vercel.app/
+  - 🥈 **Top 150 in SDI'25 out of 1000+ teams.**
 
  ---
 
