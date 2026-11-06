@@ -132,12 +132,9 @@
 
 ### 🌐 Connect With Me
 <p>
-  <a href="https://www.linkedin.com/in/aditi-gupta-464024324/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://unstop.com/mentor/aditig21?ref=fU0AGP6F">
-    <img src="https://img.shields.io/badge/Unstop-0B66C3?style=for-the-badge&logo=unstop&logoColor=white"/>
-  </a>
+   <a href="https://www.linkedin.com/in/aditi-gupta-464024324/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://unstop.com/mentor/aditig21?ref=fU0AGP6F"><img src="https://img.shields.io/badge/Unstop-0B66C3?style=for-the-badge&logo=unstop&logoColor=white"/></a>
   <a href="mailto:aditig135@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
